@@ -1,4 +1,4 @@
-#DATABASE 💾
+# DATABASE 💾
 
 ## Description of project 🧐
 A simple database to get input data and save into a `.json` file.  
