@@ -1,4 +1,14 @@
-<h1 align="center">DATABASE 💾</h1>
+#DATABASE 💾
 
 ## Description of project 🧐
-<p>I created this project to test my knowledge of golang. For this I made a database that provides an API and save the data in a .json file.</p>
+A simple database to get input data and save into a `.json` file.  
+ 
+ <b>+ Features</b>
+ + [x] Methods CRUD
+  + [x] Read all data
+  + [x] Create data
+  + [x] Update data
+  + [x] Delete specifc data
+ + [x] Save your data in `.json` file
+ + [ ] Custom input
+ + [ ] Custom name to save file
